@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\billingsystem\billingsystem\x64\Debug\billingsystem.vcxproj.AssemblyReference.cache
+C:\Users\dell\source\repos\billingsystem\billingsystem\x64\Debug\billingsystem.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\billingsystem\billingsystem\x64\Debug\billingsystem.MyForm.resources
+C:\Users\dell\source\repos\billingsystem\billingsystem\x64\Debug\billingsystem.vcxproj.GenerateResource.cache
+D:\FCIS\Projects\GUI Food Ordering System\billingsystem\billingsystem\x64\Debug\billingsystem.vcxproj.AssemblyReference.cache
+D:\FCIS\Projects\GUI Food Ordering System\billingsystem\billingsystem\x64\Debug\billingsystem.vcxproj.SuggestedBindingRedirects.cache
+D:\FCIS\Projects\GUI Food Ordering System\billingsystem\billingsystem\x64\Debug\billingsystem.MyForm.resources
+D:\FCIS\Projects\GUI Food Ordering System\billingsystem\billingsystem\x64\Debug\billingsystem.vcxproj.GenerateResource.cache
